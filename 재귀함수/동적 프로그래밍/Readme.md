@@ -56,3 +56,28 @@
 
 https://st-lab.tistory.com/127
 
+
+<!--
+## 릿코드
+동적 프로그래밍은 다음과 같은 문제에 대한 모든 가능한 해결 방법을 체계적으로 탐색합니다.  
+- "중첩 하위 문제"로 분해할 수 있는 문제. 원래 문제를 작게 만든 다음, 반복해서 사용할 수 있어야 합니다.
+- "최적의 하위 구조 optimal substructure"를 가진 문제. 중첩된 하위 문제의 최적의 솔루션으로부터 원래 문제의 최적의 솔루션을 도출할 수 있습니다.
+
+### 피보나치 수열
+
+If you wanted to find the n^{th}n 
+th
+피보나치 수열의 n번째 항 F(n)은 F(n−1), F(n−2)라는 작은 문제로 분해될 수 있습니다.
+
+Then, adding the solutions to these subproblems together gives the answer to the original question,   
+F(n - 1) + F(n - 2) = F(n)  
+F(n−1)+F(n−2)=F(n),   
+최적의 하위 구조를 
+which means the problem has optimal substructure,   
+since a solution F(n)F(n) to the original problem can be formed from the solutions to the subproblems. These subproblems are also overlapping - for example, we would need F(4)F(4) to calculate both F(5)F(5) and F(6)F(6).
+
+These attributes may seem familiar to you. Greedy problems have optimal substructure, but not overlapping subproblems. Divide and conquer algorithms break a problem into subproblems, but these subproblems are not overlapping (which is why DP and divide and conquer are commonly mistaken for one another).
+
+Dynamic programming is a powerful tool because it can break a complex problem into manageable subproblems, avoid unnecessary recalculation of overlapping subproblems, and use the results of those subproblems to solve the initial complex problem. DP not only aids us in solving complex problems, but it also greatly improves the time complexity compared to brute force solutions. For example, the brute force solution for calculating the Fibonacci sequence has exponential time complexity, while the dynamic programming solution will have linear time complexity because it reuses the results of subproblems rather than recalculating the results for previously seen subproblems. The difference in work required by the brute force approach compared to the dynamic programming approach is visually demonstrated on the next page.
+
+-->
