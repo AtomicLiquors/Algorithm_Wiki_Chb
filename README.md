@@ -24,15 +24,20 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algori
 
 장기적으로 개념을 익히려면 자기 언어로 배웁시다.
 
-채용공고 뜨면 **일단 코테 보러 가세요.**
-취직, 이직하는 방향성을 잡게 됩니다.
-
-
-
-### 실전 주요 기법
+### 주요 실전 알고리즘 기법
 (X)[Sorting (plus searching / binary search)]()  
 (X)[Divide and Conquer]()  
 (X)[Dynamic Programming / Memoization]()  
 (X)[Greediness]()  
 (X)[Recursion]()  
 Algorithms associated with a specific data structure (which brings us to our fourth suggestion...)
+
+
+
+### 코테 팁
+채용공고 뜨면 **일단 코테 보러 가세요.**
+취직, 이직하는 방향성을 잡게 됩니다.
+
+
+https://www.notion.so/580c3a42f21b49b497b7089f539a9f78
+
