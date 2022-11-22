@@ -43,7 +43,10 @@ https://st-lab.tistory.com/127
 ### 분할 정복과는 무엇이 다른가?
 - 공통점 : 최적 부분 구조를 요건으로 한다.  
 - 차이점 : 분할정복에서는 하위 문제가 반복되지 않는다.
- 
+
+Parallelizing이 뭘 말하는 겁니까?  
+Strictly speaking, both can be parallelized, however the steps required to parallelize dynamic programming approaches are quite complex. So generally speaking, divide and conquer approaches can be parallelized while dynamic programming approaches cannot be (easily) parallelized. This is because the subproblems in divide an conquer approaches are independent of one another (they do not overlap) while in dynamic programming, the subproblems do overlap.
+
 &nbsp;
  
 
