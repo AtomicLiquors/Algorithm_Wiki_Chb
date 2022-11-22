@@ -30,9 +30,9 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algori
 
 
 ### 실전 주요 기법
-[Sorting (plus searching / binary search)]()  
-[Divide and Conquer]()  
-[Dynamic Programming / Memoization]()  
-[Greediness]()  
-[Recursion]()  
+(X)[Sorting (plus searching / binary search)]()  
+(X)[Divide and Conquer]()  
+(X)[Dynamic Programming / Memoization]()  
+(X)[Greediness]()  
+(X)[Recursion]()  
 Algorithms associated with a specific data structure (which brings us to our fourth suggestion...)
