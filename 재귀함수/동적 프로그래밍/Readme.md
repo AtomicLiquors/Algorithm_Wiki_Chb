@@ -50,7 +50,8 @@ https://st-lab.tistory.com/127
 
 ### 릿코드 팁
 
-첫 번째 특징
+첫 번째 특징 : 
+문제가 다음 내용을 요구하면 DP 적용을 고려할 수 있습니다.
 - 최대/최솟값 구하기
 - 특정 조건을 만족하는 방법 수 찾기
 - 특정 지점에 도달 가능한지 여부
@@ -59,8 +60,9 @@ https://st-lab.tistory.com/127
 
 &nbsp;  
 
-두 번째 특징
-장래의 결정이 이전의 결정에 기초하여 이루어지는지
+두 번째 특징 :  
+장래의 결정이 이전의 결정에 기초하여 이루어지는지 확인하세요.  
+예시는 주석 참고.
 <!--
 
 House Robber is an excellent example of a dynamic programming problem. The problem description is:
