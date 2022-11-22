@@ -26,3 +26,13 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algori
 
 채용공고 뜨면 **일단 코테 보러 가세요.**
 취직, 이직하는 방향성을 잡게 됩니다.
+
+
+
+### 실전 주요 기법
+[Sorting (plus searching / binary search)]()
+[Divide and Conquer]()
+[Dynamic Programming / Memoization]()
+[Greediness]()
+[Recursion]()
+Algorithms associated with a specific data structure (which brings us to our fourth suggestion...)
