@@ -1,6 +1,9 @@
 # Algorithm_Wiki_Chb
 알고리즘 공부 내용을 저장합니다.
 
+항상 공부 들어가기 전에 다음 내용 한번 낭독하고 시작하도록 합시다.
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm
+
 &nbsp;  
 참고서적 :   
 [누구나 자료구조와 알고리즘]  
