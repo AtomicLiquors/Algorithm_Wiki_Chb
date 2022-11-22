@@ -2,7 +2,7 @@
 알고리즘 공부 내용을 저장합니다.
 
 항상 공부 들어가기 전에 다음 내용 한번 낭독하고 시작하도록 합시다.  
-다 알고 있으면 어디 한번 암송해보고 한 번이라도 어버버거리면 까불지 말고 또 읽읍시다.
+다 알고 있어서 읽을 필요가 없다면 어디 한번 암송해보고, 한 번이라도 어버버거리면 까불지 말고 또 읽읍시다.
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm
 
 &nbsp;  
